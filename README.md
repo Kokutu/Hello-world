@@ -1,2 +1,5 @@
 # Hello-world
-Just another repository
+
+HI Humans!
+
+Dreak here, i like to help you,what can i do for you
